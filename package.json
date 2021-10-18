@@ -1,0 +1,38 @@
+{
+  "name": "molly",
+  "version": "1.0.0",
+  "main": "src/index",
+  "author": "jorkaefdev",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-tesseract": "^0.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon src"
+  },
+  "dependencies": {
+    "amethyste-api": "^1.1.5",
+    "canvacord": "^5.2.1",
+    "common-tags": "^1.8.0",
+    "diff": "^5.0.0",
+    "discord-buttons": "^4.0.0",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^12.2.0",
+    "discord.js-rate-limiter": "^1.1.0",
+    "glob": "^7.1.7",
+    "i": "^0.3.6",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.2",
+    "npm": "^7.19.1",
+    "parse-ms": "^3.0.0",
+    "path": "^0.12.7",
+    "pick-random-weighted": "^1.2.3",
+    "random-weighted-item": "^1.1.6",
+    "request-promise-native": "^1.0.9",
+    "simply-djs": "^1.0.3",
+    "twemoji-parser": "^13.1.0",
+    "util": "^0.12.4"
+  }
+}

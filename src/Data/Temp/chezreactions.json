@@ -1,0 +1,7 @@
+[
+    {
+        "question": "Samantha just ordered a dish that consist on bread, meat, cheese and salad, what dish is this?",
+        "ingredients": ["🥪", "🍮", "🍰","🍔"],
+        "answer": "🍔"
+    }  
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Someone ordered baked beans, what type of beans are you going to use?",
+        "options": ["Borlotti beans", "Haricot beans", "Cannellini beans", "Flageolet beans"],
+        "answer": 2
+    },
+    {
+        "question": "What do you get with basil, tomato, and mozzarella?",
+        "options": ["Caprese", "Greek", "Caesar"],
+        "answer": 2
+    },
+    {
+        "question": "What is made from an English muffin, poached egg, Canadian bacon, and Hollandaise sauce?",
+        "options": ["Quiche", "Eggs Benedict", "Frittata"],
+        "answer": 2
+    }
+]

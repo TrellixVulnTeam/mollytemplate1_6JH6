@@ -1,0 +1,90 @@
+[
+    {
+        "question": "the programs that run on a computer are referred to as hardware.",
+        "answer": ["false"]
+    },
+    {
+        "question": "humans can perform computations as fast as modern computers can.",
+        "answer": ["false"]
+    },
+    {
+        "question": "Information in a secondary storage unit is retained when the computer is turned off because secondary storage units are volatile.",
+        "answer": ["false"]
+    },
+    {
+        "question": "Output units make information processed inside the computer available for use outside the computer.",
+        "answer": ["false"]
+    },
+    {
+        "question": "The ARPANET was a predecessor to the Internet.",
+        "answer": ["true"]
+    },
+    {
+        "question": "Today's set of Internet protocols, a set of rules for how computers communicate with each other, is called HTML.",
+        "answer": ["false"]
+    },
+    {
+        "question": "Interpreter programs execute high-level language programs without compiling them into machine language first.",
+        "answer": ["true"]
+    },
+    {
+        "question": "A computer can directly understand a high-level language.",
+        "answer": ["false"]
+    },
+    {
+        "question": "C was initially used as the development language of the UNIX operating system.",
+        "answer": ["true"]
+    },
+    {
+        "question": "C++ programmers can use a C-like programming style, an object-oriented programming style or both.",
+        "answer": ["true"]
+    },
+    {
+        "question": "Java was originally intended for use in intelligent consumer-electronic devices.",
+        "answer": ["true"]
+    },
+    {
+        "question": "The phenomenal success of the World Wide Web contributed to the interest in Java.",
+        "answer": ["true"]
+    },
+    {
+        "question": "The Ada programming language was named after Lady Ada Lovelace, designer of the Analytical Engine mechanical computing device.",
+        "answer": ["false"]
+    },
+    {
+        "question": "COBOL is still used to program a considerable portion of today's entertainment software.",
+        "answer": ["false"]
+    },
+    {
+        "question": "Visual Basic .NET, is object oriented and provides reusable components that programmers can use to develop applications.",
+        "answer": ["true"]
+    },
+    {
+        "question": "The Framework Class Library is only used for Visual C++.",
+        "answer": ["false"]
+    },
+    {
+        "question": "Procedural programming languages focus on actions rather than objects.",
+        "answer": ["true"]
+    },
+    {
+        "question": "Objects have attributes and perform actions.",
+        "answer": ["true"]
+    },
+    {
+        "question": ".cpp, .h and .exe files store C++ statements.",
+        "answer": ["false"]
+    },
+    {
+        "question": "The process of converting statements from a high-level language into statements of a machine language is known as compilation.",
+        "answer": ["true"]
+    },
+    {
+        "question": "To execute an application in a Windows command prompt, you must specify the name of the application followed by the .exe extension.",
+        "answer": ["false"]
+    },
+    {
+        "question": "The cd command changes directories.",
+        "answer": ["true"]
+    }
+]

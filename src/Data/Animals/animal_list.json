@@ -1,0 +1,149 @@
+{
+    "europe": {
+        "common": {
+            "dog": ["dutch boxer", "beagle", "neapolitan mastiff"],
+            "cat": ["birman", "chartreux", "german rex"]
+        },
+        "uncommon": {
+            "horse": ["miniature horse", "konik", "bosnian mountain horse"],
+            "fox": ["red", "corsac", "gray"]
+        },
+        "rare": {
+            "bat": ["greater mouse-eared", "gray long-eared", "bent-wing"],
+            "lemming": ["wood", "norway", "common"]
+        },
+        "epic": {
+            "marten": ["yellow-throated", "beech", "european pine"],
+            "shrew": ["long-tailed", "water", "bicoloured"]
+        },
+        "legendary": {
+            "racoon dog": ["black", "white", "beige"]
+        }
+    },
+    "north america": {
+        "common": {
+            "dog": ["foxhound", "hairless terrier", "water spaniel"],
+            "cat": ["shorthair", "bobtail", "ocicat"]
+        },
+        "uncommon": {
+            "eagle": ["bald", "white-tailed", "chaco"],
+            "deer": ["white-tailed", "mule", "taruca"]
+        },
+        "rare": {
+            "bear": ["brown", "grizzly", "black"],
+            "bison": ["antiquus", "occidentalis", "steppe"]
+        },
+        "epic": {
+            "alligator": ["texan", "fresh-water", "salt-water"],
+            "armadillo": ["nince-banded", "common"]
+        },
+        "legendary": {
+            "wolverine": ["black", "white", "beige"]
+        }
+    },
+    "south america": {
+        "common": {
+            "dog": ["brazilian terrier", "peruvian hairless", "argentine pila"],
+            "cat": ["andean mountain", "geoffroy's", "kodkod"]
+        },
+        "uncommon": {
+            "anaconda": ["dark-spotted", "green", "paraguayan"],
+            "tamarin": ["golden lion", "cotton-top", "emperor"]
+        },
+        "rare": {
+            "coati": ["white-nosed", "nasuella olivacea", "south american"],
+            "big cat": ["tiger", "jaguar", "leopard"]
+        },
+        "epic": {
+            "sloth": ["maned", "pygmy three-toed", "pale-throated"],
+            "tapir": ["mountain", "giant", "south american"]
+        },
+        "legendary": {
+            "alpaca": ["sun", "suri", "huacaya"]
+        }
+    },
+    "africa": {
+        "common": {
+            "dog": ["rhodesian ridgeback", "boerboel", "azawakh"],
+            "cat": ["wild", "serval", "caracal"]
+        },
+        "uncommon": {
+            "baboons": ["hamadryas", "olive", "gelada"],
+            "gazelle": ["dorcas", "mountain", "dama"]
+        },
+        "rare": {
+            "hyena": ["spotted", "striped", "aardwold"],
+            "hippo": ["common", "pygmy", "sub-saharan"]
+        },
+        "epic": {
+            "camel": ["bactrian", "dromedary", "wild bactrian"],
+            "elephant": ["bush", "forest", "loxodonta"]
+        },
+        "legendary": {
+            "lion": ["barbary", "west african", "central african"]
+        }
+    },
+    "asia": {
+        "common": {
+            "dog": ["korean jindo", "thai ridgeback", "hokkaido"],
+            "cat": ["persian", "siamese", "oriental shorthair"]
+        },
+        "uncommon": {
+            "bear": ["sri lankan", "indian sloth", "brown"],
+            "elephant": ["indian", "sumatran", "syrian"]
+        },
+        "rare": {
+            "rhinoceros": ["greater one-horned", "indian"],
+            "crane": ["red-crowned", "sarus", "black-necked"]
+        },
+        "epic": {
+            "snake": ["cobra", "pit viper", "boiga"],
+            "oryx": ["arabian", "saola"]
+        },
+        "legendary": {
+            "slow loris": ["black", "white", "beige"]
+        }
+    },
+    "antarctica": {
+        "common": {
+            "dog": ["husky", "malamute", "eskimo"],
+            "cat": ["tonkinese", "foldex", "cymric"]
+        },
+        "uncommon": {
+            "penguin": ["emperor", "adelie", "chinstrap"],
+            "seal": ["leopard", "weddell", "crabeater"]
+        },
+        "rare": {
+            "albatross": ["wandering", "black-browed", "gray-headed"],
+            "petrel": ["antarctic", "giant", "cape"]
+        },
+        "epic": {
+            "whale": ["minke", "southern bottlenose"],
+            "dolphin": ["hourglass", "dusky"]
+        },
+        "legendary": {
+            "fox": ["arctic"]
+        }
+    },
+    "australia": {
+        "common": {
+            "dog": ["jackal", "koolie", "kelpie"],
+            "cat": ["mist", "donskoy", "burmilla"]
+        },
+        "uncommon": {
+            "kangaroo": ["baby", "giant", "red"],
+            "emu": ["big-headed", "giant", "common"]
+        },
+        "rare": {
+            "taipan": ["coastal", "black", "common"],
+            "wombat": ["hairy-nosed", "southern", "common"]
+        },
+        "epic": {
+            "koala": ["brown", "gray", "gray-brown"],
+            "platypus": ["common", "duck-billed"]
+        },
+        "legendary": {
+            "dropbear": ["black", "white", "beige"]
+        }
+    }
+}
