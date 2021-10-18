@@ -1,6 +1,6 @@
 {
     "prefix": "!",
-    "token": "",
+    "token": "1",
     "owners": ["674718197672312842"],
     "defaultPerms": ["SEND_MESSAGES"],
     "mongoPath": "mongodb://localhost:27017/MollyBOT"
